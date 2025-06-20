@@ -1,7 +1,6 @@
 {
   "name": "Postman Workspace",
- "start_url": "/postman-pwa/"
-
+  "start_url": "/postman-pwa/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff6c37",
